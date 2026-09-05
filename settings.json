@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "6Bloxx.aternos.me",
+    "ip": "6Bloxx.aternos.me:55747",
     "port": 55747,
     "version": "",
     "try-creative": false
